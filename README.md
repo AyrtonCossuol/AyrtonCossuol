@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Computer Engineering student at UFES.<br>💼 Working as a Data Engineer at ??????.<br>✨ Creating bugs since 2017.<br>🎮 I like playing video games.<br>
+📚 Computer Engineering student at UFES.<br>💼 Working as a Data Engineer at americanas s.a.<br>✨ Creating bugs since 2017.<br>🎮 I like playing video games.<br>
 
 
 ## 🌐 Socials:
